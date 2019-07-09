@@ -1,0 +1,32 @@
+
+
+body {
+	background-image: url(whitedog.jpg);
+	background-size: cover;
+	font-family: 'Satisfy', cursive;
+	text-align: center;
+	margin-left: 10px;
+	margin-top: 300px;
+	margin-right: 400px;
+	font-size: 40px;
+
+}
+
+h1 {
+	font-size: 50px;
+}
+
+.btn-secondary {
+	background-color: #afdcde;
+	color: black;
+	border: 2px solid #4b7475;
+	font-family: 'Amaranth', sans-serif;
+	margin-top: 50px;
+
+}
+
+.btn-secondary:hover {
+	background-color: #4b7475;
+	color: #afdcde;
+	border: 2px solid black;
+}
